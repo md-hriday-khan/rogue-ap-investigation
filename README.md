@@ -79,8 +79,8 @@ It is suspected that this equipment was used for **malicious wardriving** — a 
 
 
 ```
----
-🔍 Investigation Approach
+
+ 🔍 Investigation Approach
 
 🧪 Forensic Methodology
 
