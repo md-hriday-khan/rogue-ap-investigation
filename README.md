@@ -1,4 +1,4 @@
-# 🔍 Wireless Interception & Insider Threat Case Study — UK
+# 🔍 Wireless Interception & Insider Threat Case Study UK
 # Digital Forensics & Incident Response (DFIR) Project
  Simulating a rogue wireless (wardriving) attack and insider threat scenario in a corporate environment.
 > A corporate forensic investigation scenario based in Luton, UK, involving suspected wireless traffic interception, trade secret theft, and cybercrime.
@@ -79,38 +79,7 @@ It is suspected that this equipment was used for **malicious wardriving** — a 
 
 
 ```
-
 ---
-
-## 🏛️ ACPO Principles
-
-The investigation must demonstrate compliance with all **5 ACPO (Association of Chief Police Officers) Good Practice Guide** principles for digital evidence:
-
-| Principle | Description |
-|-----------|-------------|
-| **1** | No action taken should change data held on a computer or storage media which may subsequently be relied upon in court |
-| **2** | In exceptional circumstances where it is necessary to access original data, the person doing so must be competent and able to give evidence explaining the relevance and implications of their actions |
-| **3** | An audit trail or other record of all processes applied to computer-based evidence should be created and preserved; an independent third party should be able to examine those processes and achieve the same result |
-| **4** | The person in charge of the investigation has overall responsibility for ensuring that the law and these principles are adhered to |
-| **5** | Any agency using this guidance must ensure it is implemented and regularly reviewed |
-
----
-
-## ⚖️ Relevant Legislation
-
-The following UK laws are relevant to this case and should be discussed in the report:
-
-- **Computer Misuse Act 1990** — Unauthorised access, modification, and intent to commit further offences
-- **Police and Criminal Evidence Act (PACE) 1984** — Rules governing seizure and handling of digital evidence
-- **Data Protection Act 2018 / UK GDPR** — Unlawful processing of personal data intercepted
-- **Fraud Act 2006** — Obtaining financial information by deception / dishonestly
-- **Regulation of Investigatory Powers Act (RIPA) 2000** — Interception of communications
-- **Human Rights Act 1998** — Privacy considerations during investigation
-- **Criminal Justice and Police Act 2001** — Powers of seizure
-
----
-
-
 🔍 Investigation Approach
 
 🧪 Forensic Methodology
@@ -148,6 +117,39 @@ Network Evidence
 Access point logs
 DHCP / authentication logs
 Corporate network access records
+
+```
+---
+
+## 🏛️ ACPO Principles
+
+The investigation must demonstrate compliance with all **5 ACPO (Association of Chief Police Officers) Good Practice Guide** principles for digital evidence:
+
+| Principle | Description |
+|-----------|-------------|
+| **1** | No action taken should change data held on a computer or storage media which may subsequently be relied upon in court |
+| **2** | In exceptional circumstances where it is necessary to access original data, the person doing so must be competent and able to give evidence explaining the relevance and implications of their actions |
+| **3** | An audit trail or other record of all processes applied to computer-based evidence should be created and preserved; an independent third party should be able to examine those processes and achieve the same result |
+| **4** | The person in charge of the investigation has overall responsibility for ensuring that the law and these principles are adhered to |
+| **5** | Any agency using this guidance must ensure it is implemented and regularly reviewed |
+
+---
+
+## ⚖️ Relevant Legislation
+
+The following UK laws are relevant to this case and should be discussed in the report:
+
+- **Computer Misuse Act 1990** — Unauthorised access, modification, and intent to commit further offences
+- **Police and Criminal Evidence Act (PACE) 1984** — Rules governing seizure and handling of digital evidence
+- **Data Protection Act 2018 / UK GDPR** — Unlawful processing of personal data intercepted
+- **Fraud Act 2006** — Obtaining financial information by deception / dishonestly
+- **Regulation of Investigatory Powers Act (RIPA) 2000** — Interception of communications
+- **Human Rights Act 1998** — Privacy considerations during investigation
+- **Criminal Justice and Police Act 2001** — Powers of seizure
+
+---
+
+
 ---
 
 ## 🔄 Security Cycle Analysis
