@@ -21,12 +21,10 @@ The case is analysed using industry-standard DFIR practices, including forensic 
 - [Assignment Brief](#assignment-brief)
 - [Investigation Objectives](#investigation-objectives)
 - [Key Questions](#key-questions)
-- [Deliverables](#deliverables)
+- [Evidence Checklist](#evidence-checklist)
 - [ACPO Principles](#acpo-principles)
 - [Relevant Legislation](#relevant-legislation)
-- [Evidence Checklist](#evidence-checklist)
 - [Security Cycle Analysis](#security-cycle-analysis)
-- [Report Requirements](#report-requirements)
 - [Team & Contributions](#team--contributions)
 
 ---
